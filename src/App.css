@@ -1,3 +1,7 @@
 .App {
   text-align: center;
 }
+
+.error {
+  color: rgb(255, 0, 0);
+}
